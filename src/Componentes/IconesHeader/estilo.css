@@ -1,0 +1,8 @@
+.icones {
+    align-items: center;
+    display: flex;
+}
+.icone {
+    width: 30px;
+    padding: 0 10px;
+}
