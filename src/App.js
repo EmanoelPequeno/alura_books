@@ -1,6 +1,7 @@
 import './App.css';
 import Logo from './componentes/Logo'
 import IconesHeader from './componentes/IconesHeader';
+import OpcoesHeader from './componentes/OpcoesHeader';
 
 
 function App() {
